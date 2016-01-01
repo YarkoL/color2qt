@@ -1,0 +1,17 @@
+{
+  "asset_ids": [
+    "AKFVwZkAwBLoKHdvTyRUzfAwWcy2xEUw6U"
+  ],
+  "contract_url": "https://someurl.com/asset",
+  "name_short": "TST",
+  "name": "Dummy Asset",
+  "issuer": "Space Dandy",
+  "description": "Just testing stuff",
+  "description_mime": "text/x-markdown; charset=UTF-8",
+  "type": "Joke",
+  "divisibility": 9,
+  "link_to_website": false,
+  "icon_url": "https://someurl.com/asset.jpg",
+  "image_url": "https://someurl.com/asset1.jpg",
+  "version": "1.0"
+}
